@@ -16,9 +16,9 @@ pandas.set_option('display.width', 1000)
 pandas.set_option('display.max_colwidth', 1000)
 pandas.set_option('display.max_rows', None)
 
-common_path=r"D:\data\titanic"
-test_data_path=r"D:\data\titanic\test.csv"
-train_data_path=r"D:\data\titanic\train.csv"
+common_path=r"../data\titanic"
+test_data_path=r"..\data\titanic\test.csv"
+train_data_path=r"..\data\titanic\train.csv"
 
 
 
